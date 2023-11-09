@@ -1,6 +1,6 @@
-# Desafio de Smartphone com Programação Orientada a Objetos em C#
-Este é um desafio como parte do curso Formação .NET Developer da Dio, onde objetivo era Criar um Sistema Abstraindo um Celular com POO em C#. O projeto envolve a criação de classes relacionadas a smartphones, como a classe base Smartphone e as classes derivadas Nokia e Iphone. O objetivo deste projeto é mostrar como você pode usar herança e polimorfismo para modelar diferentes tipos de smartphones e suas ações.
+# Desafio de Smartphone com ProgramaÃ§Ã£o Orientada a Objetos em C#
+Este Ã© um desafio como parte do curso FormaÃ§Ã£o .NET Developer da Dio, onde objetivo era Criar um Sistema Abstraindo um Celular com POO em C#. O projeto envolve a criaÃ§Ã£o de classes relacionadas a smartphones, como a classe base Smartphone e as classes derivadas Nokia e Iphone. O objetivo deste projeto Ã© mostrar como vocÃª pode usar heranÃ§a e polimorfismo para modelar diferentes tipos de smartphones e suas aÃ§Ãµes.
 
-Funcionalidades
-1. Criação de instâncias de smartphones de diferentes marcas, como Nokia e iPhone.
-2. Instalação de aplicativos em smartphones.
+## Funcionalidades
+1. CriaÃ§Ã£o de instÃ¢ncias de smartphones de diferentes marcas, como Nokia e iPhone.
+2. InstalaÃ§Ã£o de aplicativos em smartphones.
